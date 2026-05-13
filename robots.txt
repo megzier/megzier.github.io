@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://megzier.com/sitemap.xml
+Sitemap: https://rachuminternationalfoundation.com/sitemap.xml
 
 # Disallow admin areas
 Disallow: /cgi-bin/
